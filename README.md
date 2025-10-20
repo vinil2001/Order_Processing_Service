@@ -8,7 +8,8 @@ Follow these steps to clone, run, and test locally.
 1) Clone the repo
 git clone https://github.com/vinil2001/Order_Processing_Service.git
 
-cd <repo>
+2) Change directory to the cloned repo
+cd Order_Processing_Service
 
 2) Start infrastructure (PostgreSQL + Redis)
 docker compose up -d
