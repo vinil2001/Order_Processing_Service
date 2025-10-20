@@ -6,7 +6,7 @@ Quick Start
 Follow these steps to clone, run, and test locally.
 
 1) Clone the repo
-git clone https://github.com/<your-org-or-user>/<repo>.git
+git clone https://github.com/vinil2001/Order_Processing_Service.git
 cd <repo>
 
 2) Start infrastructure (PostgreSQL + Redis)
